@@ -6,4 +6,5 @@ public class PotatoDao {
 	//파일올리기
 	
 	//지금 이거 올리는거 테스트하기
+	// 테스트 22
 }
